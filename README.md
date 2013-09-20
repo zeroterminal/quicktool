@@ -1,4 +1,4 @@
 quicktool
 =========
 
-tools tp get the job done faster
+Tools to get the job done quicker.
